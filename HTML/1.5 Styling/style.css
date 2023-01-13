@@ -1,0 +1,28 @@
+body{
+font-family:monospace
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+span {
+    color: aqua;
+}
+
+h2{
+    background-color:blueviolet;
+    color: white;
+    font-style: italic;
+    text-align: center;
+    padding: 5px;
+}
+
+h3{
+    background-color:dodgerblue;
+    font-weight: lighter;
+    text-decoration: underline;
+    text-align: right;
+    padding: 5px;
+}

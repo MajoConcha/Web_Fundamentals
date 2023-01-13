@@ -1,0 +1,32 @@
+.container{
+    margin: 0 auto;
+    width: 600px;
+    height: 300px;
+    font-family: monospace;
+    border: 2px solid lightslategray;   
+}
+
+.head{
+    background-color: rgb(32, 154, 178);
+    width: 600px;
+    height: 70px;
+}
+
+.body{
+    margin: 50px 30px;
+}
+
+.user{
+    height: 80px;
+    position: relative;
+    top: 30px;
+    left: 30px;
+    border: 2px solid lightgray;
+    border-radius: 50%;
+}
+
+.map, .engranaje{
+    height: 20px;
+    vertical-align: middle;
+}
+

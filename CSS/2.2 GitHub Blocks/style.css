@@ -1,0 +1,44 @@
+.container{
+    width: 1000px;
+    background-color: rgb(234, 230, 230);
+    margin: 0 auto;
+    border: 3px solid silver;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Courier New';
+    color: darkmagenta;
+    font-size: 50px;
+}
+
+.bloque1,.bloque2,.bloque3{
+    display: flex;
+    margin: 20px 20px;
+    padding: 20px;
+}
+
+.bloque1{
+    background-color: lightpink;
+    justify-content: space-between;
+}
+
+.bloque2{
+    background-color: lightblue;
+    justify-content: space-evenly;
+}
+
+.bloque3{
+    background-color: lightseagreen;
+    justify-content: space-between;
+}
+
+p{
+    text-align: center;
+    font-family: Verdana;
+    color: darkgray;
+}
+
+a{
+    color: lightskyblue;
+}

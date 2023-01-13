@@ -1,0 +1,27 @@
+.b1{
+    background-color:gainsboro;
+    color:darkcyan;
+    width: 150px;
+    height: 30;
+    border: 1px solid darkcyan;
+    border-radius: 10px;
+}
+
+.b2{
+    margin: 10px;
+    background-color: darkcyan;
+    color: white;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: none;
+}
+
+.b3{
+    background-color: cornflowerblue;
+    color: white;
+    width: 150px;
+    height: 30px;
+    border: 1px solid black;
+    box-shadow: 5px 5px black;
+}
